@@ -1,0 +1,129 @@
+.parent2{
+    width: 500px;
+    height: 100%;
+    position: relative;
+}
+
+.paris{
+    width: 100%;
+    height: 100px;
+    font-size: 40px;
+    position: absolute;
+    top: 58px;
+    left: 525px;
+    font-weight: bold;
+    filter: blur(12px);
+}
+
+a{
+    text-decoration:none;
+    color: orangered;
+}
+
+del{
+    color:orangered;
+}
+
+.btn2{
+    position: absolute;
+    top: 65px;
+    left: 480px;
+    color: orangered;
+    filter: blur(12px);
+
+}
+
+.back{
+    position: absolute;
+    top: 140px;
+    left: 610px;
+    font-size: 36px;
+    filter: blur(12px);
+
+}
+
+.box6{
+    width: 275px;
+    height: 350px;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding-top: 35px;
+    
+    box-shadow: 1px 1px 4px #222;
+    position: absolute;
+    top: 150px;
+    left: 475px;
+    filter: blur(12px);
+
+}
+
+
+.icon{
+    position:absolute;
+    top: 490px;
+    left: 700px;
+    color: orangered;
+    filter: blur(12px);
+
+}
+
+.triptoparis1{
+    padding-left: 0px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+    margin-left: 40px;
+    filter: blur(12px);
+
+}
+
+.completedtask{
+    margin-left: 40px;
+    font-weight: bold;
+    filter: blur(12px);
+
+}
+
+.task{
+    margin-left: 20px;
+    filter: blur(12px);
+
+}
+
+.addNewItem {
+    width: 320px;
+    height: 175px;
+    border: 1px solid red;
+    padding-top: 35px;
+    position: absolute;
+    top: 200px;
+    left:450px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgb(134, 131, 131);
+    background-color: white;
+}
+
+.textarea{
+    margin-top:20px;
+    width: 205px;
+    height: 40px;
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-left: 60px;
+    box-shadow: 2px 2px 5px rgb(134, 131, 131);
+    
+}
+
+button{
+    width: 75px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: orangered ;
+}
+
+button:hover{
+    cursor: pointer;
+}

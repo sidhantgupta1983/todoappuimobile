@@ -1,0 +1,173 @@
+.parent1{
+    width: 500px;
+    height:100%;
+    position: relative;
+}
+
+.heading{
+    width:100px;
+    height:100px;
+    position: absolute;
+    top: 25px;
+    left: 400px;
+    font-size: 55px;
+    font-weight:bold;
+    filter: blur(13px);
+}
+
+.format{
+    font-family: Heebo, sans-serif;
+    width:100px;
+    height:100px;
+    position: absolute;
+    top: 19px;
+    left: 540px; 
+    font-size: 55px;
+    font-weight: 0px;
+    opacity: 0.5;
+    font-weight: thin;
+    filter: blur(13px);
+
+}
+a{
+    text-decoration:none;
+}
+.btn{
+    width: 50px;
+    height:50px;
+    position: absolute;
+    top: 45px;
+    left: 725px;
+    color:orangered;
+    filter: blur(13px);
+
+}
+ .btncolor{
+     color: orangered;
+    filter: blur(13px);
+
+ }
+
+.box1{
+    width: 345px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: absolute;
+    top: 125px;
+    left: 400px;
+    box-shadow: 2px 2px 5px rgb(134, 131, 131);
+    filter: blur(13px);
+
+}
+
+.triptoparis{
+    padding-top: 10px;
+    margin-left:30px;
+    padding-bottom: 8px;
+    font-size: 24px;
+   color: gray;
+   filter: blur(13px);
+
+}
+
+.box2{
+    width: 345px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: absolute;
+    top: 215px;
+    left: 400px;
+    box-shadow: 2px 2px 5px rgb(134, 131, 131);
+    filter: blur(13px);
+
+}
+
+.box3{
+    width: 345px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: absolute;
+    top: 305px;
+    left: 400px;
+    box-shadow: 2px 2px 5px #222;
+    filter: blur(13px);
+
+}
+
+.mytodolist{
+    font-size: 24px;
+    padding-left: 30px;
+    padding-top: 10px;
+    color:gray;   
+    filter: blur(13px);
+
+}
+
+
+
+.box4{
+    width: 345px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: absolute;
+    top: 395px;
+    left: 400px;
+    box-shadow: 2px 2px 5px #222;
+    filter: blur(13px);
+
+}
+
+.box5{
+    width: 345px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: absolute;
+    top: 485px;
+    left: 400px;
+    box-shadow: 2px 2px 5px #222;
+    filter: blur(13px);
+
+}
+
+.addNewList {
+    width: 350px;
+    height: 175px;
+    border: 1px solid red;
+    padding-top: 35px;
+    position: absolute;
+    top: 200px;
+    left:400px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgb(134, 131, 131);
+    background-color: white;
+}
+
+.textarea{
+    margin-top:20px;
+    width: 235px;
+    height: 40px;
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-left: 60px;
+    box-shadow: 2px 2px 5px rgb(134, 131, 131);
+}
+
+button{
+    width: 75px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: orangered ;
+}
+
+button:hover{
+    cursor: pointer;
+}
